@@ -1102,13 +1102,6 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/github">
-                    <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="80;" alt="github"/>
-                    <br />
-                    <sub><b>GitHub</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/koconder">
                     <img src="https://avatars.githubusercontent.com/u/25068?u=582657b23622aaa3dfe68bd028a780f272f456fa&v=4" width="80;" alt="koconder"/>
                     <br />
@@ -1143,8 +1136,6 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Zach Biles</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/UlisesGascon">
                     <img src="https://avatars.githubusercontent.com/u/5110813?u=3c41facd8aa26154b9451de237c34b0f78d672a5&v=4" width="80;" alt="UlisesGascon"/>
@@ -1152,6 +1143,8 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Ulises Gascón</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/digitalarche">
                     <img src="https://avatars.githubusercontent.com/u/6546135?u=564756d7f44ab2206819eb3148f6d822673f5066&v=4" width="80;" alt="digitalarche"/>
@@ -1187,8 +1180,6 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Vlad</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/helixzz">
                     <img src="https://avatars.githubusercontent.com/u/12218889?u=d06d0c103dfbdb99450623064f7da3c5a3675fb6&v=4" width="80;" alt="helixzz"/>
@@ -1196,18 +1187,13 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>HeliXZz</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/patvdv">
                     <img src="https://avatars.githubusercontent.com/u/12430107?u=e8911c2fb91af4d30432f76da8c40927b2830bd7&v=4" width="80;" alt="patvdv"/>
                     <br />
                     <sub><b>Patrick Van Der Veken</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/plgonzalezrx8">
-                    <img src="https://avatars.githubusercontent.com/u/19900049?u=48a58d2da520a9d712184c6e6e99927ff3cbf179&v=4" width="80;" alt="plgonzalezrx8"/>
-                    <br />
-                    <sub><b>Pedro Gonzalez</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1218,10 +1204,24 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/sushibait">
+                    <img src="https://avatars.githubusercontent.com/u/26634535?v=4" width="80;" alt="sushibait"/>
+                    <br />
+                    <sub><b>Shiverme Timbers</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/forwardemail">
                     <img src="https://avatars.githubusercontent.com/u/32481436?v=4" width="80;" alt="forwardemail"/>
                     <br />
                     <sub><b>Forward Email - Open-source & Privacy-focused Email Service (2023)</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/semiceau">
+                    <img src="https://avatars.githubusercontent.com/u/50425951?v=4" width="80;" alt="semiceau"/>
+                    <br />
+                    <sub><b>GT</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1238,13 +1238,6 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <img src="https://avatars.githubusercontent.com/u/59408891?v=4" width="80;" alt="getumbrel"/>
                     <br />
                     <sub><b>Umbrel</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/M2TD">
-                    <img src="https://avatars.githubusercontent.com/u/85460457?v=4" width="80;" alt="M2TD"/>
-                    <br />
-                    <sub><b>M2TD</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1266,6 +1259,13 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <img src="https://avatars.githubusercontent.com/u/151435968?u=e1dcb307fd0efdc45cddbe9490a7b956e4da6835&v=4" width="80;" alt="nrvo"/>
                     <br />
                     <sub><b>Nrvo</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/hudsonrock-partnerships">
+                    <img src="https://avatars.githubusercontent.com/u/163282900?v=4" width="80;" alt="hudsonrock-partnerships"/>
+                    <br />
+                    <sub><b>hudsonrock-partnerships</b></sub>
                 </a>
             </td>
 		</tr>

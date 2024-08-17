@@ -89,6 +89,12 @@ const CardStyles = `
 
 const resources = [
   {
+    title: 'Hudson Rock',
+    link: 'https://hudsonrock.com/free-tools/?=webcheck',
+    icon: 'https://i.ibb.co/0rF3rZh/logo-1-967abb2c.png',
+    description: 'Identify Infostealer infection data related to domains and emails',
+  },
+  {
     title: 'SSL Labs Test',
     link: 'https://ssllabs.com/ssltest/analyze.html',
     icon: 'https://i.ibb.co/6bVL8JK/Qualys-ssl-labs.png',
@@ -207,11 +213,11 @@ const resources = [
     searchLink: 'https://radar.cloudflare.com/domains/domain/{URL}',
   },
   {
-    title: 'Mozilla Observatory',
-    link: 'https://observatory.mozilla.org/',
+    title: 'Mozilla HTTP Observatory',
+    link: 'https://developer.mozilla.org/en-US/observatory',
     icon: 'https://i.ibb.co/hBWh9cj/logo-mozm-5e95c457fdd1.png',
     description: 'Assesses website security posture by analyzing various security headers and practices',
-    searchLink: 'https://observatory.mozilla.org/analyze/{URL}',
+    searchLink: 'https://developer.mozilla.org/en-US/observatory/analyze?host={URL}',
   },
   {
     title: 'AbuseIPDB',
